@@ -25,4 +25,6 @@ Demonstrate the ability to analyse a technical requirement, identify information
 - Proposal Response
 - Lessons Learned
 
-📄 **Proposal Document:** *(To be uploaded)*
+## Proposal Document
+
+[Proposal-Response.pdf](Proposal-Response.pdf)
