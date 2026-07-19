@@ -4,7 +4,7 @@
 
 **Client Requirement**
 
-> "The proposed system shall support 10,000 concurrent users while maintaining 99.9% uptime."
+"The proposed system shall support 10,000 concurrent users while maintaining 99.9% uptime."
 
 ## Objective
 
