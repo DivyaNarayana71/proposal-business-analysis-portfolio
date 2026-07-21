@@ -20,6 +20,7 @@ This repository demonstrates my approach to analysing client requirements, colla
 | Case Study | Topic | Skills Demonstrated | Status |
 |------------|-------|---------------------|--------|
 | Case Study 01 | Responding to a Scalability and High Availability Requirement | Requirement Analysis, SME Collaboration, Proposal Response Development | ✅ Completed |
+| Case Study 02 | Develop a Compliance Matrix | Business Requirement Mapping, Risk Identification, Technical and Business Communication | ✅ Completed |
 
 ## About This Portfolio
 
