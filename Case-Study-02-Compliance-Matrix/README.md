@@ -55,5 +55,3 @@ This structured approach helps ensure every client requirement is understood, ad
 ## Response Document
 
 [Compliance_Matrix.pdf](Compliance_Matrix.pdf)
-
-*This project was created for learning and portfolio purposes to demonstrate proposal management and business analysis skills.*
